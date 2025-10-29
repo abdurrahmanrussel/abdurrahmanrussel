@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahmanrussel" alt="abdurrahmanrussel" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Tailwind CSS**
+- 🌱 I’m currently learning **Fast API**
 
 - 📫 How to reach me **abdurrahmanrussel77@gmail.com**
 
