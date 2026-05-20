@@ -1,30 +1,85 @@
-<h1 align="center">Hi 👋, I'm Abdur Rahman Russel</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrahmanrussel&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrahmanrussel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahmanrussel" alt="abdurrahmanrussel" /></a> </p>
-
-- 🌱 I’m currently learning **Fast API**
-
-- 📫 How to reach me **abdurrahmanrussel77@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-abdur-rahman77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abdur-rahman77" height="30" width="40" /></a>
-<a href="https://fb.com/aburrahmanrussel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aburrahmanrussel" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aburrahmanrussel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aburrahmanrussel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdurrahmanruss1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdurrahmanruss1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdur_rahman_russel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdur_rahman_russel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abdur_rahman_russel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdur_rahman_russel" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/a_r_russel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="a_r_russel" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Abdur Rahman Russel 👋</h1>
+<p align="center">
+  Full-stack developer · Bangladesh &nbsp;·&nbsp; Building products for teams and real users
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrahmanrussel&show_icons=true&locale=en&layout=compact" alt="abdurrahmanrussel" /></p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdurrahmanrussel&show_icons=true&locale=en" alt="abdurrahmanrussel" /></p>
+I build web applications and automation tools across the full stack — from interactive frontends in React and Angular to Python/FastAPI backends and embedded C++ systems. I work with the **Strong Force Analytics** team shipping production products, and maintain several personal projects in parallel. 645 contributions in the last year and counting.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurrahmanrussel&" alt="abdurrahmanrussel" /></p>
+- 🌱 Currently deepening my skills in **FastAPI** and backend architecture
+- 🏢 Collaborating with **Strong Force Analytics** — shipping real client products
+- 💡 Interested in automation, ed-tech, and local BD businesses
+- 📫 Reach me at **abdurrahmanrussel77@gmail.com**
+
+---
+
+## Team work @ Strong Force Analytics
+
+> Private repos — contribution counts shown as proof of work.
+
+| Project | Role | Commits (Apr '26) | Description |
+|---|---|---|---|
+| 🔒 kasbyiq-project | Core dev | 67 | Main platform product — largest active codebase |
+| 🔒 AATrading-Web | Full-stack | 32 | Trading web app for a client |
+| 🔒 linkedin-auto-comment | Automation | — | Python tool for LinkedIn engagement |
+| 🔒 sfa-one-pager | Frontend | 5 | Agency marketing landing page |
+
+---
+
+## Personal projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [amrao-pari](https://github.com/abdurrahmanrussel/amrao-pari-react-frontend) | React | Programming learning platform in Bangla 🇧🇩 |
+| [ar-techlabs](https://github.com/abdurrahmanrussel/ar-techlabs) | TypeScript | Tech platform — in active development |
+| [ar-trading-house](https://github.com/abdurrahmanrussel/ar-trading-house) | TypeScript · Supabase | Trading web app with CI/CD setup |
+| [pure-origin-rajshahi](https://github.com/abdurrahmanrussel/pure-origin-rajshahi) | JavaScript | Website for a local business in Rajshahi |
+| [netvibebd](https://github.com/abdurrahmanrussel/netvibebd) | Web | BD-focused web project |
+| [test-casbyiq](https://github.com/abdurrahmanrussel/test-casbyiq) | TypeScript | Dev/test fork of kasbyiq — 52 commits Apr '26 |
+
+---
+
+## Tech stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & DB**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+**Other**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+---
+
+## GitHub stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abdurrahmanrussel&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahmanrussel&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abdur-rahman77)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abdurrahmanrussel77@gmail.com)
+
+---
+
+<p align="center">
+  <sub>Some of my most active work is in private team repos — happy to discuss on request.</sub>
+</p>
